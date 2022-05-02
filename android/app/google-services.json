@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1023522670210",
+    "firebase_url": "https://musicplayerhuree-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "musicplayerhuree",
+    "storage_bucket": "musicplayerhuree.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023522670210:android:c46ff70d6eed4421a4569b",
+        "android_client_info": {
+          "package_name": "com.example.music_player_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023522670210-vgr8asr50e5sgc4v987scdc29roclb8f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.music_player_project",
+            "certificate_hash": "93fe79d179867f9c53017c4c1d71a5e067080bc5"
+          }
+        },
+        {
+          "client_id": "1023522670210-96net1g7r7od2e6imr8rm4fh6cn1es8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD1fsJP0Qwy37MBzw7UfFzzr-UWDoFPXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023522670210-96net1g7r7od2e6imr8rm4fh6cn1es8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
